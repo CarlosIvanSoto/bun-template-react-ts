@@ -7,7 +7,7 @@ This is a React project bootstrapped with [bun](https://bun.sh/).
 ### Cloning the repo
 
 ```sh
-bun create react ./react-bun-app
+bun create CarlosIvanSoto/bun-template-react-ts react-ts
 ```
 
 ### Development
